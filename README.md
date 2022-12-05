@@ -1,5 +1,5 @@
 # README generator 
-![Github license]((https://img.shields.io/badge/license-MIT-blue.svg)
+![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description 
 This project is here to help users create a professional README file for all their projects! 
@@ -22,7 +22,7 @@ npm i
 
 ## Usage
 
-[LINK TO VIDEO] (https://drive.google.com/file/d/1ONFaWCxJ4CwMH0SqM0PAgBFh3-LVAAor/view?usp=sharing)
+[Link to video demonstration](#https://drive.google.com/file/d/1ONFaWCxJ4CwMH0SqM0PAgBFh3-LVAAor/view?usp=sharing)
 
 ## Contributing 
 
