@@ -22,7 +22,7 @@ npm i
 
 ## Usage
 
-[Link to video demonstration](#https://drive.google.com/file/d/1ONFaWCxJ4CwMH0SqM0PAgBFh3-LVAAor/view?usp=sharing)
+Link to video demonstration[Here](#https://drive.google.com/file/d/1ONFaWCxJ4CwMH0SqM0PAgBFh3-LVAAor/view?usp=sharing)
 
 ## Contributing 
 
